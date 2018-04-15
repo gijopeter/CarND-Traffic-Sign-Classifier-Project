@@ -31,7 +31,7 @@ The goals / steps of this project are the following:
 [image13]: ./softmax-prob.png "Soft Max Probability"
 
 
-You're reading it! and here is a link to my [project code](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb)
+You're reading it! and here is a link to my [project code](https://github.com/gijopeter/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb)
 
 ### 1. Data Set Summary & Exploration
 
